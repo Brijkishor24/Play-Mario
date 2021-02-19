@@ -32,3 +32,9 @@ h4{
 .modal-dialog{
     width: 90%;
 }
+video{
+    background-image:url("game_console.png");
+    background-size: cover;
+    background-position:center;
+    
+}
