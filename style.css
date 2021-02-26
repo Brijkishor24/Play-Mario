@@ -13,7 +13,7 @@
     width:100%;
     height: 70%;
 }
-#start{
+#start,#restart{
     font-size:25px;
 }
 h4{
